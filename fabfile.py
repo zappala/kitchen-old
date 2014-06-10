@@ -7,7 +7,7 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'zappala@kichen.zappala.org:22'
+production = 'zappala@kitchen.zappala.org:22'
 dest_path = '/var/www/kitchen.zappala.org'
 
 # Rackspace Cloud Files configuration settings
