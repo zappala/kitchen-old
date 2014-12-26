@@ -6,7 +6,7 @@ Author: Daniel Zappala
 Image: /images/orange-rolls.jpg
 
 One of our favorite long-weekend recipes comes from the Pillsbury
-cookbook, {\em The Complete Book of Baking}. If you want to see rolls
+cookbook, *The Complete Book of Baking*. If you want to see rolls
 disappear as fast as you can make them, this is a great recipe to
 make.
 

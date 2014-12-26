@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=kichen.zappala.org
+SSH_HOST=kitchen.zappala.org
 SSH_PORT=22
 SSH_USER=zappala
 SSH_TARGET_DIR=/var/www/kitchen.zappala.org
